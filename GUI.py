@@ -36,7 +36,7 @@ except ImportError:
     IS_WINDOWS = False
 
 # --- Configuration ---
-START_STOP_KEY = Key.f2
+START_STOP_KEY = Key.f12
 HIDE_SHOW_KEY = Key.f6
 EXIT_KEY = Key.f8
 SETTINGS_FILE = "settings.json"
